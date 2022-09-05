@@ -1,1 +1,1 @@
-write a script that prints "Hello, World" followed by a new line to the stand output
+write a script that prints "Hello, Word", followed by a new line to the standard output
